@@ -1,0 +1,8 @@
+.mi-boton {
+    background-color: blue; /* Pintamos la pared de azul */
+    color: white;           /* Ponemos el texto en blanco */
+    padding: 15px 30px;     /* Damos espacio interno */
+    border: none;           /* Quitamos el borde predeterminado */
+    border-radius: 10px;    /* Redondeamos las esquinas */
+    font-size: 20px;        /* Cambiamos el tamaño de la letra */
+}
