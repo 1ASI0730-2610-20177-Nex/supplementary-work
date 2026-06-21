@@ -20,7 +20,7 @@ Documento principal:
 
 - Lección 1: https://youtu.be/xxxxx
 - Lección 2: https://youtu.be/xxxxx
-- Lección 3: https://youtu.be/xxxxx
+- Lección 3: https://youtu.be/aIEehgVdhXg
 - Lección 4: https://youtu.be/xxxxx
 - Lección 5: https://youtu.be/xxxxx
 - Lección 6: https://youtu.be/xxxxx
