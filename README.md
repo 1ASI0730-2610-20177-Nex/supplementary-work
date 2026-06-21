@@ -21,7 +21,7 @@ Documento principal:
 - Lección 1: [https://youtu.be/xxxxx](https://youtu.be/uKKgclqHXgI)
 - Lección 2: https://youtu.be/xxxxx
 - Lección 3: https://youtu.be/aIEehgVdhXg
-- Lección 4: https://youtu.be/xxxxx
+- Lección 4: [https://youtu.be/xxxxx](https://youtu.be/acwP6MEeWkQ)
 - Lección 5: https://youtu.be/xxxxx
 - Lección 6: https://youtu.be/JhB989H8i8U
 
